@@ -21,6 +21,7 @@
 - Advanced CSS and SASS course (29% complete  📖 ): https://www.udemy.com/course/advanced-css-and-sass
 ### 8. Architecture
 - REST API Design (100% completed ✅ ): https://www.udemy.com/course/rest-api-design-the-complete-guide
+- GraphQL
 - Microservices  Grider course (40% completed  📖 ): https://www.udemy.com/course/microservices-with-node-js-and-react
 
 ### 9. Docker/Kubernetes
