@@ -12,7 +12,7 @@
 - Appendix Course in Microservices Grider Course (100% completed ✅ ): https://www.udemy.com/course/microservices-with-node-js-and-react
 - The TypeScript handbook (up until More on functions - inference 📖): https://www.typescriptlang.org/docs/handbook
 ### 4. NodeJS
-- Nest JS course Grider (0% completed  📙 ): https://www.udemy.com/course/nestjs-the-complete-developers-guide
+- Nest JS course Grider (40% completed 📖): https://www.udemy.com/course/nestjs-the-complete-developers-guide
 ### 5.Testing
 
 ### 6. RxJS
