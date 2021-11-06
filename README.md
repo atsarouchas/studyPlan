@@ -10,8 +10,8 @@
 
 ### 3. TypeScript
 - Appendix Course in Microservices Grider Course (100% completed ✅ ): https://www.udemy.com/course/microservices-with-node-js-and-react
-- The TypeScript handbook (up until More on functions - Guidelines for Writing Good Generic Functions
- 📖): https://www.typescriptlang.org/docs/handbook
+- The TypeScript handbook (up until Type manipulations)
+ 📖): https://www.typescriptlang.org/docs/handbook/2/types-from-types.html
 ### 4. NodeJS
 - Nest JS course Grider (40% completed 📖): https://www.udemy.com/course/nestjs-the-complete-developers-guide
 ### 5.Testing
