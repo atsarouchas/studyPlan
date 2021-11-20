@@ -13,7 +13,7 @@
 - The TypeScript handbook (up until conditional types)
  📖): https://www.typescriptlang.org/docs/handbook/2/conditional-types.html
 ### 4. NodeJS
-- Nest JS course Grider (40% completed 📖): https://www.udemy.com/course/nestjs-the-complete-developers-guide
+- Nest JS course Grider (50% completed 📖): https://www.udemy.com/course/nestjs-the-complete-developers-guide
 ### 5.Testing
 
 ### 6. RxJS
