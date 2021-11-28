@@ -12,6 +12,7 @@
 - Appendix Course in Microservices Grider Course (100% completed ✅ ): https://www.udemy.com/course/microservices-with-node-js-and-react
 - The TypeScript handbook (up until conditional types)
  📖): https://www.typescriptlang.org/docs/handbook/2/conditional-types.html
+- https://typescript-exercises.github.io/
 ### 4. NodeJS
 - Nest JS course Grider (50% completed 📖): https://www.udemy.com/course/nestjs-the-complete-developers-guide
 ### 5.Testing
